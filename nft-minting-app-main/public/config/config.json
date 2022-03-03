@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF483313fc94AA44636C95bAe0d70F1D2E3E887d2",
+  "SCAN_LINK": "https://polygonscan.com/token/0xF483313fc94AA44636C95bAe0d70F1D2E3E887d2",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Murakami Society",
+  "SYMBOL": "MSNFT",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/murakami-society",
+  "SHOW_BACKGROUND": false
+}
